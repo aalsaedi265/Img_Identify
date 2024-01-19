@@ -1,5 +1,4 @@
 
-there is a mountain of notes in the jupyter notebook just for myself to understand what i was doing, and to refer to it for future work
 
 ## conda env INSTEAD of py env
 
